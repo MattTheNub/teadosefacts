@@ -8,5 +8,5 @@ assignees: ''
 
 ---
 
-If the server takes too long to judge a tourist solution, the server receives a TLE verdict.
-Tourist can count to 2^64. On his fingers.
+If the server takes too long to judge a teadose solution, the server receives a TLE verdict.
+Teadose can count to 2^64. On his fingers.
